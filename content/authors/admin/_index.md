@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: PhD in Robotics
-    institution: ETH Zurich
+    institution: ETH Zurich, Switzerland
     year: 2011
   - course: MSc Electrical and Computer Engineering
-    institution: National Technical University of Athens
+    institution: National Technical University of Athens, Greece
     year: 2006
 
 # Social/Academic Networking
