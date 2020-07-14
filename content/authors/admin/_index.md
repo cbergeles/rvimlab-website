@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Lecturer in Surical Robotics
+role: Senior Lecturer in Surgical Robotics
 
 # Organizations/Affiliations
 organizations:
