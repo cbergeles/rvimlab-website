@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Lecturer (Tenured Assistant Professor) of Surical Robotics
+role: Senior Lecturer in Surical Robotics
 
 # Organizations/Affiliations
 organizations:
-- name: King's College London
-  url: ""
+- name: King's College London, Robotics and Vision in Medicine Lab
+  url: "www.rvim.online"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research team and I develop micro-surgical robotic systems and multi-sensory guidance algorithms to achieve impossible interventions deep inside the human body.
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Christos Bergeles is Senior Lecturer (Tenured Assistant Professor) of Surgical Robotics at the School of Biomedical Engineering & Imaging Sciences of King's College London. His research interests include surgical robotics and interventional visual servoing. He leads the Robotics and Vision in Medicine Lab, which develops micro-surgical robotic systems and multi-sensory guidance algorithms to achieve impossible interventions deep inside the human body.
+Christos Bergeles is Senior Lecturer of Surgical Robotics at the School of Biomedical Engineering & Imaging Sciences of King's College London. His research interests include surgical robotics and interventional visual servoing. He leads the Robotics and Vision in Medicine Lab, which develops micro-surgical robotic systems and multi-sensory guidance algorithms to achieve impossible interventions deep inside the human body.
 
 Christos received the Ph.D. degree in Robotics from ETH Zurich, Switzerland, in 2011. He was a postdoctoral research fellow at Boston Children’s Hospital, Harvard Medical School, Massachusetts, and the Hamlyn Centre for Robotic Surgery, Imperial College, United Kingdom. Further, he was an Assistant Professor at the Wellcome/EPSRC Centre for Interventional and Surgical Sciences of University College London. Dr. Bergeles received the Fight for Sight Award in 2014, and the ERC Starting Grant in 2016.
