@@ -5,7 +5,6 @@ publishDate: 2020-07-17T10:57:31.605618Z
 authors: ["S. M. Hadi Sadati", "S. E. Naghibi", "A. Shiva", "M. Brendan", "L. Renson", "M. Howard", "D. Rucker", "K. Althoefer", "T. Nanayakkara", "Steffen Zschaler", "C. Bergeles", "H. Hauser", "I. Walker"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Int. J. Robotics Research*"
 ---
-

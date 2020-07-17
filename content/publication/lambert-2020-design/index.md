@@ -5,7 +5,6 @@ publishDate: 2020-07-17T10:57:31.595444Z
 authors: ["P. Lambert", "Lyndon Da Cruz*", "C. Bergeles*"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*IEEE Robotics and Automation Letters*"
 ---
-
