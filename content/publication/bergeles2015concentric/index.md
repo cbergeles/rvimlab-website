@@ -7,15 +7,15 @@ publication_types: ["2"]
 abstract: ""
 featured: true
 publication: "*IEEE Trans. Robotics*"
-image:
-  placement: 2
-  caption: "Optimisation process"
-  focal_point: "Left"
-  preview_only: false
-  alt_text: An optional description of the image for screen readers.
 links:
   - icon_pack: fab
     icon: github
     name: Code
     url: 'https://github.com/RViMLab/TRO2015-computational-robot-design'
+image:
+  placement: 2
+  caption: "Optimisation process"
+  focal_point: "Left"
+  preview_only: false
+  alt_text: Image illustrating an optimised concentric tube robot.
 ---
