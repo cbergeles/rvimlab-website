@@ -10,6 +10,6 @@ publication: "*IEEE Trans. Robotics*"
 links:
   - icon_pack: fab
     icon: github
-    name: src
+    name: code
     url: 'https://github.com/RViMLab/TRO2015-computational-robot-design'
 ---
