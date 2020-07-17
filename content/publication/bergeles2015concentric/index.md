@@ -6,12 +6,8 @@ authors: ["C Bergeles", "A Gosline", "N V Vasilyev", "P Codd", "P J del Nido", "
 publication_types: ["2"]
 abstract: ""
 featured: true
-publication: "*IEEE Trans. Robotics*"
-links:
-  - icon_pack: fab
-    icon: github
-    name: Code
-    url: 'https://github.com/RViMLab/TRO2015-computational-robot-design'
+publication: "*IEEE Trans. Robotics, 31*(1)"
+url_code: 'https://github.com/RViMLab/TRO2015-computational-robot-design'
 ---
 image:
   placement: 2
