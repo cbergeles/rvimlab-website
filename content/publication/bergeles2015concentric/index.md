@@ -10,5 +10,5 @@ publication: "*IEEE Trans. Robotics, 31*(1)"
 url_code: 'https://github.com/RViMLab/TRO2015-computational-robot-design'
 image:
   focal_point: "Right"
-  preview_only: false
+  preview_only: true
 ---
