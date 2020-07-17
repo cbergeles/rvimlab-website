@@ -6,5 +6,6 @@ authors: ["C Bergeles", "A Gosline", "N V Vasilyev", "P Codd", "P J del Nido", "
 publication_types: ["2"]
 abstract: ""
 featured: true
+pages: 67--84
 publication: "*IEEE Trans. Robotics*"
 ---
